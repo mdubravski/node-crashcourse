@@ -1,0 +1,8 @@
+body{
+    background-color: #333;
+    color: #fff;
+    display: grid;
+    align-items: center;
+    justify-items: center;
+    margin: 10rem ;
+}
